@@ -1,3 +1,2 @@
 Python google style
-iVIM
-IM
+~/.vim/indent/python.vim
